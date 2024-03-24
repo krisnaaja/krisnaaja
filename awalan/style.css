@@ -1,0 +1,32 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+p {
+  text-align: justify;
+}
+#box {
+  width: auto;
+  height: auto;
+  margin: auto;
+}
+#header {
+  background-color: #c70039;
+  padding: 20px;
+  color: white;
+}
+#menubar {
+  background-color: #7d7474;
+  margin: auto;
+  padding: 7px;
+}
+#footer {
+  background: #4e4a4b;
+}
+#konten {
+  margin: 25px;
+}
+.teksmenu {
+  text-decoration: none;
+}
